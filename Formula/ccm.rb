@@ -1,8 +1,8 @@
 class Ccm < Formula
   desc "nvm-like manager for Claude Code profiles"
   homepage "https://github.com/Remeic/ccm#readme"
-  url "https://registry.npmjs.org/@remeic/ccm/-/ccm-0.2.2.tgz"
-  sha256 "bddb96f36ef80c9db6b9895b39e88c704283be2b6d07f217bfed55e5a9094acc"
+  url "https://registry.npmjs.org/@remeic/ccm/-/ccm-0.3.0.tgz"
+  sha256 "fe4cb339e117b8e48e153280c95a804389c85babcdc5bf649c69bd080955f806"
   license "MIT"
 
   depends_on "node"
